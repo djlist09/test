@@ -10,7 +10,6 @@
         </Grid.RowDefinitions>
         <TextBox HorizontalAlignment="Left" Height="46" Margin="24,19,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="453"/>
         <Button Content="Button" HorizontalAlignment="Left" Height="29" Margin="24,94,0,0" VerticalAlignment="Top" Width="120" Click="Button_Click"/>
-        <Button Content="Button" HorizontalAlignment="Left" Height="339" Margin="450,94,0,0" VerticalAlignment="Top" Width="516" Grid.RowSpan="3"/>
-        <TextBox HorizontalAlignment="Left" Height="69" Margin="59,76,0,0" Grid.Row="2" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="307"/>
+        <TextBox HorizontalAlignment="Left" Height="135" Margin="59,10,0,0" Grid.Row="2" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="891"/>
     </Grid>
 </Window>
